@@ -58,7 +58,7 @@ Agricultural productivity and farm economics are strongly influenced by seasonal
 * **Language:** Python 3
 * **Data Manipulation:** Pandas, NumPy
 * **Data Visualization:** Matplotlib, Seaborn
-* **Environment:** Google Colab / Jupyter Notebook
+* **Environment:** Google Colab
 * **Version Control:** Git & GitHub
 
 ## 📂 Repository Structure
